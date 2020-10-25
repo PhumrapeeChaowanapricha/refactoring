@@ -1,8 +1,11 @@
 # Refactoring
 ## Just tower game
 From my senior project (Sirawich Direk) : https://github.com/magmagcup/just_tower_game.git
+
 In just_tower_game/model.py 
+
 https://github.com/magmagcup/just_tower_game/blob/master/model.py
+
 Inside this code
 ``` python
 class Model(arcade.Sprite):
